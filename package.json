@@ -1,0 +1,29 @@
+{
+  "name": "genoset-117",
+  "version": "1.0.0",
+  "description": "predicts type-1 diabetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimelek/genoset-117.git"
+  },
+  "keywords": [
+    "diabets",
+    "dna",
+    "genes",
+    "genetics",
+    "type-1",
+    "gs117",
+    "genoset",
+    "genome"
+  ],
+  "author": "Malek Hakim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakimelek/genoset-117/issues"
+  },
+  "homepage": "https://github.com/hakimelek/genoset-117#readme"
+}
